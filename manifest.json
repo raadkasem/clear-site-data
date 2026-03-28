@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Clear Site Data",
+  "version": "1.0.0",
+  "description": "Clear current website data — cookies, storage, cache, service workers — just like Chrome DevTools.",
+  "author": "Raad Kasem",
+  "homepage_url": "https://raadkasem.dev",
+  "permissions": [
+    "browsingData",
+    "activeTab",
+    "scripting",
+    "cookies"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Clear Site Data"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
