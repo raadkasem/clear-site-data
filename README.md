@@ -21,7 +21,7 @@ Third-party cookie clearing is enabled by default — detects third-party domain
 
 ## Screenshot
 
-<!-- Add a screenshot here -->
+![Clear Site Data](screenshot.png)
 
 ## License
 
