@@ -1,5 +1,7 @@
 # Clear Site Data
 
+![Visitors](https://komarev.com/ghpvc/?username=raadkasem&repo=clear-site-data&color=red&style=flat-square)
+
 Chrome extension to clear current website data — like Chrome DevTools Application tab, one click away.
 
 ## Features
